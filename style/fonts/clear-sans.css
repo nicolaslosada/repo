@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Clear Sans";
+    src: url("castellar.eot");
+    src: url("castellar.eot?#iefix") format("embedded-opentype"),
+         url("castellar.svg#castellar") format("svg"),
+         url("castellar.woff") format("woff");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Clear Sans";
+    src: url("castellar.eot");
+    src: url("castellar.eot?#iefix") format("embedded-opentype"),
+         url("castellar.svg#castellar") format("svg"),
+         url("castellar.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Clear Sans";
+    src: url("castellar.eot");
+    src: url("castellar.eot?#iefix") format("embedded-opentype"),
+         url("castellar.svg#castellar") format("svg"),
+         url("castellar.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
+}
+
